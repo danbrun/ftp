@@ -1,0 +1,10 @@
+/home/danb/Documents/dcn/ftpServer/bin/Debug/netcoreapp2.0/ftpServer.deps.json
+/home/danb/Documents/dcn/ftpServer/bin/Debug/netcoreapp2.0/ftpServer.runtimeconfig.json
+/home/danb/Documents/dcn/ftpServer/bin/Debug/netcoreapp2.0/ftpServer.runtimeconfig.dev.json
+/home/danb/Documents/dcn/ftpServer/bin/Debug/netcoreapp2.0/ftpServer.dll
+/home/danb/Documents/dcn/ftpServer/bin/Debug/netcoreapp2.0/ftpServer.pdb
+/home/danb/Documents/dcn/ftpServer/obj/Debug/netcoreapp2.0/ftpServer.csproj.CoreCompileInputs.cache
+/home/danb/Documents/dcn/ftpServer/obj/Debug/netcoreapp2.0/ftpServer.AssemblyInfoInputs.cache
+/home/danb/Documents/dcn/ftpServer/obj/Debug/netcoreapp2.0/ftpServer.AssemblyInfo.cs
+/home/danb/Documents/dcn/ftpServer/obj/Debug/netcoreapp2.0/ftpServer.dll
+/home/danb/Documents/dcn/ftpServer/obj/Debug/netcoreapp2.0/ftpServer.pdb

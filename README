@@ -1,0 +1,8 @@
+FTP server and client by Dan Brunwasser (drb8650)
+
+The FTP client is located in the ftp folder
+	To run, open a terminal in the ftp directory
+	Run the command "dotnet run <server> [port]"
+
+The FTP server is located in the ftpServer folder
+	It takes no commands, run with just "dotnet run"
